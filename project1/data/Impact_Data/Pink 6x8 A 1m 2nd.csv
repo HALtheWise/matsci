@@ -1,0 +1,245 @@
+[Shared Parameters]
+
+Parameter Name,Olin Basic [022119.171141710], 
+Saved by,Matt, 
+Laboratory,Mat Sci, 
+Customer,CEAST Lab, 
+Comment,, 
+Date,2/21/2019 5:11:41 PM, 
+Test Type,Puncture, 
+Standard,CUSTOMIZED STANDARD, 
+No.Specimen,8, 
+Clamped,no, 
+Support Diameter,80.000,mm
+Applied weight,0.000,kg
+Impact Energy,30.611,J
+Impact Velocity,4.429,m/s
+Impact Height,1000.000,mm
+Sampling Freq.,1000.000,kHz
+Points No.,5000, 
+Trigger Level,10.0,%
+Trigger Type,Internal (digital), 
+PreTrigger Points,100, 
+Total Point,5, 
+Working Range,45000000.000,%
+Carriage Mass,2.500,kg
+Data Type,Instrumented, 
+Clamping Use,no, 
+Striker Range,45000.000,N
+Clamping Force,?, 
+Standard,CUSTOMIZED STANDARD, 
+Support Type,Clamp, 
+Ring diameter,0.000,mm
+Use conditioning restart,no, 
+Use specimen temperature wait,no, 
+Use temperature maintenance after test,no, 
+
+[Shared Data]
+
+Test Name,Pink 6x8 A 1m 2nd,
+Instrument,Data Screen,
+Instrument Type,<INST_DT40>,
+Data Type,Instrumented,
+No.Specs.,2,
+Date,2/21/2019 5:08:24 PM,
+Date Last Mod.,2/21/2019 5:12:39 PM,
+Operator,Flynn,
+Comment,,
+Clamping Force,,
+
+[Step [1] Data]
+
+Discard, ,
+Manual, ,
+N. Step data,1,
+Thickness,25.000,mm
+Percentage Energy,8.23,%
+Slow Down,34.04,%
+Velocity Variation,1.501,m/s
+Total Mass,3.121,kg
+Impact Height (Nominal),1000.000,mm
+Impact Velocity (Nominal),4.429,m/s
+Impact Energy (Nominal),30.611,J
+Specimen ID,,
+Peak Force,3331.833,N
+Peak Energy,17.121,J
+Total Energy,18.657,J
+Peak Displacement,48.276,mm
+Total Displacement,49.477,mm
+Start Velocity,4.410,m/s
+Yield Energy,0.000,J
+Yield Force,0.000,N
+Yield Displacement,0.000,mm
+Yield Raw Data,-1.393,mV
+Yield Velocity,4.410,m/s
+Yield Time,8.918,ms
+Yield Percent,---,%
+
+[Step [2] Data]
+
+Discard, ,
+Manual, ,
+N. Step data,2,
+Thickness,25.000,mm
+Percentage Energy,3.12,%
+Slow Down,29.80,%
+Velocity Variation,1.314,m/s
+Total Mass,3.121,kg
+Impact Height (Nominal),1000.000,mm
+Impact Velocity (Nominal),4.429,m/s
+Impact Energy (Nominal),30.611,J
+Specimen ID,,
+Peak Force,3603.701,N
+Peak Energy,16.097,J
+Total Energy,16.615,J
+Peak Displacement,39.581,mm
+Total Displacement,39.912,mm
+Start Velocity,4.410,m/s
+Yield Energy,16.086,J
+Yield Force,3545.857,N
+Yield Displacement,39.578,mm
+Yield Raw Data,13.606,mV
+Yield Velocity,3.149,m/s
+Yield Time,19.864,ms
+Yield Percent,---,%
+
+[Statistical Data - Minimum]
+
+Discard,Min,
+Manual,---,
+N. Step data,---,
+Thickness,25.000,mm
+Percentage Energy,3.12,%
+Slow Down,29.80,%
+Velocity Variation,1.314,m/s
+Total Mass,3.121,kg
+Impact Height (Nominal),1000.000,mm
+Impact Velocity (Nominal),4.429,m/s
+Impact Energy (Nominal),30.611,J
+Specimen ID,---,
+Peak Force,3331.833,N
+Peak Energy,16.097,J
+Total Energy,16.615,J
+Peak Displacement,39.581,mm
+Total Displacement,39.912,mm
+Start Velocity,4.410,m/s
+Yield Energy,0.000,J
+Yield Force,0.000,N
+Yield Displacement,0.000,mm
+Yield Raw Data,-1.393,mV
+Yield Velocity,3.149,m/s
+Yield Time,8.918,ms
+Yield Percent,---,%
+
+[Statistical Data - Maximum]
+
+Discard,Max,
+Manual,---,
+N. Step data,---,
+Thickness,25.000,mm
+Percentage Energy,8.23,%
+Slow Down,34.04,%
+Velocity Variation,1.501,m/s
+Total Mass,3.121,kg
+Impact Height (Nominal),1000.000,mm
+Impact Velocity (Nominal),4.429,m/s
+Impact Energy (Nominal),30.611,J
+Specimen ID,---,
+Peak Force,3603.701,N
+Peak Energy,17.121,J
+Total Energy,18.657,J
+Peak Displacement,48.276,mm
+Total Displacement,49.477,mm
+Start Velocity,4.410,m/s
+Yield Energy,16.086,J
+Yield Force,3545.857,N
+Yield Displacement,39.578,mm
+Yield Raw Data,13.606,mV
+Yield Velocity,4.410,m/s
+Yield Time,19.864,ms
+Yield Percent,---,%
+
+[Statistical Data - Average]
+
+Discard,Avg,
+Manual,---,
+N. Step data,---,
+Thickness,25.000,mm
+Percentage Energy,5.67,%
+Slow Down,31.92,%
+Velocity Variation,1.408,m/s
+Total Mass,3.121,kg
+Impact Height (Nominal),1000.000,mm
+Impact Velocity (Nominal),4.429,m/s
+Impact Energy (Nominal),30.611,J
+Specimen ID,---,
+Peak Force,3467.767,N
+Peak Energy,16.609,J
+Total Energy,17.636,J
+Peak Displacement,43.929,mm
+Total Displacement,44.694,mm
+Start Velocity,4.410,m/s
+Yield Energy,8.043,J
+Yield Force,1772.929,N
+Yield Displacement,19.789,mm
+Yield Raw Data,6.107,mV
+Yield Velocity,3.779,m/s
+Yield Time,14.391,ms
+Yield Percent,---,%
+
+[Statistical Data - Standard Deviation]
+
+Discard,StdDev,
+Manual,---,
+N. Step data,---,
+Thickness,0.000,mm
+Percentage Energy,3.62,%
+Slow Down,2.99,%
+Velocity Variation,0.132,m/s
+Total Mass,0.000,kg
+Impact Height (Nominal),0.000,mm
+Impact Velocity (Nominal),0.000,m/s
+Impact Energy (Nominal),0.000,J
+Specimen ID,---,
+Peak Force,192.240,N
+Peak Energy,0.724,J
+Total Energy,1.444,J
+Peak Displacement,6.148,mm
+Total Displacement,6.764,mm
+Start Velocity,0.000,m/s
+Yield Energy,11.375,J
+Yield Force,2507.300,N
+Yield Displacement,27.986,mm
+Yield Raw Data,10.606,mV
+Yield Velocity,0.892,m/s
+Yield Time,7.740,ms
+Yield Percent,---,%
+
+[Statistical Data - Variance]
+
+Discard,Var,
+Manual,---,
+N. Step data,---,
+Thickness,0.000,mm
+Percentage Energy,13.09,%
+Slow Down,8.96,%
+Velocity Variation,0.017,m/s
+Total Mass,0.000,kg
+Impact Height (Nominal),0.000,mm
+Impact Velocity (Nominal),0.000,m/s
+Impact Energy (Nominal),0.000,J
+Specimen ID,---,
+Peak Force,36956.192,N
+Peak Energy,0.524,J
+Total Energy,2.085,J
+Peak Displacement,37.803,mm
+Total Displacement,45.746,mm
+Start Velocity,0.000,m/s
+Yield Energy,129.383,J
+Yield Force,6286551.034,N
+Yield Displacement,783.213,mm
+Yield Raw Data,112.486,mV
+Yield Velocity,0.795,m/s
+Yield Time,59.907,ms
+Yield Percent,---,%
+
