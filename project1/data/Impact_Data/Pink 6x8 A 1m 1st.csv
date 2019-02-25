@@ -53,9 +53,9 @@ Discard, ,
 Manual, ,
 N. Step data,1,
 Thickness,25.000,mm
-Percentage Energy,2.61,%
-Slow Down,36.62,%
-Velocity Variation,1.615,m/s
+Percentage Energy,38.87,%
+Slow Down,114.21,%
+Velocity Variation,5.037,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -63,9 +63,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,,
 Peak Force,3840.863,N
 Peak Energy,19.106,J
-Total Energy,19.618,J
+Total Energy,31.257,J
 Peak Displacement,47.484,mm
-Total Displacement,47.769,mm
+Total Displacement,49.694,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -81,9 +81,9 @@ Discard,Min,
 Manual,---,
 N. Step data,---,
 Thickness,25.000,mm
-Percentage Energy,2.61,%
-Slow Down,36.62,%
-Velocity Variation,1.615,m/s
+Percentage Energy,38.87,%
+Slow Down,114.21,%
+Velocity Variation,5.037,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -91,9 +91,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,---,
 Peak Force,3840.863,N
 Peak Energy,19.106,J
-Total Energy,19.618,J
+Total Energy,31.257,J
 Peak Displacement,47.484,mm
-Total Displacement,47.769,mm
+Total Displacement,49.694,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -109,9 +109,9 @@ Discard,Max,
 Manual,---,
 N. Step data,---,
 Thickness,25.000,mm
-Percentage Energy,2.61,%
-Slow Down,36.62,%
-Velocity Variation,1.615,m/s
+Percentage Energy,38.87,%
+Slow Down,114.21,%
+Velocity Variation,5.037,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -119,9 +119,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,---,
 Peak Force,3840.863,N
 Peak Energy,19.106,J
-Total Energy,19.618,J
+Total Energy,31.257,J
 Peak Displacement,47.484,mm
-Total Displacement,47.769,mm
+Total Displacement,49.694,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -137,9 +137,9 @@ Discard,Avg,
 Manual,---,
 N. Step data,---,
 Thickness,25.000,mm
-Percentage Energy,2.61,%
-Slow Down,36.62,%
-Velocity Variation,1.615,m/s
+Percentage Energy,38.87,%
+Slow Down,114.21,%
+Velocity Variation,5.037,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -147,9 +147,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,---,
 Peak Force,3840.863,N
 Peak Energy,19.106,J
-Total Energy,19.618,J
+Total Energy,31.257,J
 Peak Displacement,47.484,mm
-Total Displacement,47.769,mm
+Total Displacement,49.694,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N

@@ -42,7 +42,7 @@ Instrument Type,<INST_DT40>,
 Data Type,Instrumented,
 No.Specs.,3,
 Date,2/21/2019 5:42:15 PM,
-Date Last Mod.,2/21/2019 5:47:31 PM,
+Date Last Mod.,2/24/2019 11:39:42 PM,
 Operator,Flynn,
 Comment,,
 Clamping Force,,
@@ -53,19 +53,19 @@ Discard, ,
 Manual, ,
 N. Step data,1,
 Thickness,25.000,mm
-Percentage Energy,3.66,%
-Slow Down,20.07,%
-Velocity Variation,0.885,m/s
+Percentage Energy,63.54,%
+Slow Down,78.08,%
+Velocity Variation,3.443,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
 Impact Energy (Nominal),30.611,J
-Specimen ID,,
+Specimen ID,1,
 Peak Force,2631.917,N
 Peak Energy,11.718,J
-Total Energy,12.164,J
+Total Energy,32.135,J
 Peak Displacement,39.041,mm
-Total Displacement,39.391,mm
+Total Displacement,106.010,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -81,19 +81,19 @@ Discard, ,
 Manual, ,
 N. Step data,2,
 Thickness,25.000,mm
-Percentage Energy,11.32,%
-Slow Down,26.55,%
-Velocity Variation,1.171,m/s
+Percentage Energy,57.20,%
+Slow Down,73.07,%
+Velocity Variation,3.222,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
 Impact Energy (Nominal),30.611,J
-Specimen ID,,
+Specimen ID,2,
 Peak Force,2811.234,N
 Peak Energy,13.471,J
-Total Energy,15.190,J
+Total Energy,31.475,J
 Peak Displacement,38.372,mm
-Total Displacement,39.657,mm
+Total Displacement,108.748,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -109,19 +109,19 @@ Discard, ,
 Manual, ,
 N. Step data,3,
 Thickness,25.000,mm
-Percentage Energy,12.17,%
-Slow Down,24.65,%
-Velocity Variation,1.087,m/s
+Percentage Energy,56.26,%
+Slow Down,57.79,%
+Velocity Variation,2.548,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
 Impact Energy (Nominal),30.611,J
-Specimen ID,,
+Specimen ID,3,
 Peak Force,2961.629,N
 Peak Energy,12.642,J
-Total Energy,14.393,J
+Total Energy,28.905,J
 Peak Displacement,40.252,mm
-Total Displacement,41.623,mm
+Total Displacement,129.511,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -137,9 +137,9 @@ Discard,Min,
 Manual,---,
 N. Step data,---,
 Thickness,25.000,mm
-Percentage Energy,3.66,%
-Slow Down,20.07,%
-Velocity Variation,0.885,m/s
+Percentage Energy,56.26,%
+Slow Down,57.79,%
+Velocity Variation,2.548,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -147,9 +147,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,---,
 Peak Force,2631.917,N
 Peak Energy,11.718,J
-Total Energy,12.164,J
+Total Energy,28.905,J
 Peak Displacement,38.372,mm
-Total Displacement,39.391,mm
+Total Displacement,106.010,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -165,9 +165,9 @@ Discard,Max,
 Manual,---,
 N. Step data,---,
 Thickness,25.000,mm
-Percentage Energy,12.17,%
-Slow Down,26.55,%
-Velocity Variation,1.171,m/s
+Percentage Energy,63.54,%
+Slow Down,78.08,%
+Velocity Variation,3.443,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -175,9 +175,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,---,
 Peak Force,2961.629,N
 Peak Energy,13.471,J
-Total Energy,15.190,J
+Total Energy,32.135,J
 Peak Displacement,40.252,mm
-Total Displacement,41.623,mm
+Total Displacement,129.511,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -193,9 +193,9 @@ Discard,Avg,
 Manual,---,
 N. Step data,---,
 Thickness,25.000,mm
-Percentage Energy,9.05,%
-Slow Down,23.76,%
-Velocity Variation,1.048,m/s
+Percentage Energy,59.00,%
+Slow Down,69.64,%
+Velocity Variation,3.071,m/s
 Total Mass,3.121,kg
 Impact Height (Nominal),1000.000,mm
 Impact Velocity (Nominal),4.429,m/s
@@ -203,9 +203,9 @@ Impact Energy (Nominal),30.611,J
 Specimen ID,---,
 Peak Force,2801.593,N
 Peak Energy,12.610,J
-Total Energy,13.916,J
+Total Energy,30.838,J
 Peak Displacement,39.222,mm
-Total Displacement,40.224,mm
+Total Displacement,114.756,mm
 Start Velocity,4.410,m/s
 Yield Energy,0.000,J
 Yield Force,-0.000,N
@@ -221,9 +221,9 @@ Discard,StdDev,
 Manual,---,
 N. Step data,---,
 Thickness,0.000,mm
-Percentage Energy,4.68,%
-Slow Down,3.33,%
-Velocity Variation,0.147,m/s
+Percentage Energy,3.96,%
+Slow Down,10.57,%
+Velocity Variation,0.466,m/s
 Total Mass,0.000,kg
 Impact Height (Nominal),0.000,mm
 Impact Velocity (Nominal),0.000,m/s
@@ -231,9 +231,9 @@ Impact Energy (Nominal),0.000,J
 Specimen ID,---,
 Peak Force,165.068,N
 Peak Energy,0.877,J
-Total Energy,1.569,J
+Total Energy,1.707,J
 Peak Displacement,0.953,mm
-Total Displacement,1.219,mm
+Total Displacement,12.851,mm
 Start Velocity,0.000,m/s
 Yield Energy,0.000,J
 Yield Force,0.000,N
@@ -249,9 +249,9 @@ Discard,Var,
 Manual,---,
 N. Step data,---,
 Thickness,0.000,mm
-Percentage Energy,21.94,%
-Slow Down,11.11,%
-Velocity Variation,0.022,m/s
+Percentage Energy,15.65,%
+Slow Down,111.76,%
+Velocity Variation,0.217,m/s
 Total Mass,0.000,kg
 Impact Height (Nominal),0.000,mm
 Impact Velocity (Nominal),0.000,m/s
@@ -259,9 +259,9 @@ Impact Energy (Nominal),0.000,J
 Specimen ID,---,
 Peak Force,27247.314,N
 Peak Energy,0.769,J
-Total Energy,2.461,J
+Total Energy,2.914,J
 Peak Displacement,0.909,mm
-Total Displacement,1.486,mm
+Total Displacement,165.142,mm
 Start Velocity,0.000,m/s
 Yield Energy,0.000,J
 Yield Force,0.000,N
